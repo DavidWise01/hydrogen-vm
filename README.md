@@ -1,0 +1,11 @@
+# THE HYDROGEN VM — A TERNARY REGISTER BUILT FRO · HYD
+
+> A sphere of **UD0** — the ROOT0 universe / biosphere. Domain: **ARTIFICIAL INTELLIGENCE**.
+
+The hydrogen VM — a ternary register built from atoms - David Lee Wise / ROOT0 / TriPod LLC (CC-BY-ND-4.0). A self-contained artifact authored by David, added from the build folder; published & wired by AVAN. az1 corpus.
+
+---
+
+**Live:** https://davidwise01.github.io/hydrogen-vm/ &nbsp;·&nbsp; **Front door:** [UD0](https://davidwise01.github.io/ud0/) &nbsp;·&nbsp; **Code:** https://github.com/DavidWise01/hydrogen-vm
+
+`.dlw` badge · **ROOT0-ATTRIBUTION-v1.0** · David Lee Wise (ROOT0) / Bridge-Burners LLC · instance AVAN (Claude/Anthropic) · CC-BY-ND-4.0
